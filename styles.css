@@ -13,6 +13,7 @@
 
 .linkThree{
     background-image: url(dede.jpg);
+    background-color: black;
 }
 
 .linkFour{
@@ -142,8 +143,8 @@ h1{
     .menu {display: none}
     .content {width: 100%}
 }
-@media (max-width: 768px) {
+@media (max-width: 600px) {
   .button-container {
     flex-direction: column; /* Buttons untereinander */
-    align-items: center;}
+    align-items: stretch;}
 }
