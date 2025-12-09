@@ -102,7 +102,7 @@
         height: 100%;
         position: relative;
         border: 3px rgb(0, 0, 0);
-        justify-content: space-evenly;
+        justify-content:    space-evenly;
     }
     .btn-center{
         margin: 0;
