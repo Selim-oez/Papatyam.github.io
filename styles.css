@@ -140,7 +140,7 @@
 }          
 
 .video{
-    width: 300px;
+    width: fit-content;
     height: auto;
 }
 
